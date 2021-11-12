@@ -19,7 +19,10 @@
 
 # Research Area
 
-- TBD
+- OS kernel-level support for high-availability, high-performance, and high-reliability.
+- Distributed cluster resource management based on system virtualization
+- Workload characterization and resource scheduling for cloud XaaS
+- Other system-related issues
 
 # Publication
 

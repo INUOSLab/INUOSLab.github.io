@@ -9,6 +9,7 @@
 
 ## Available positions
 
+- Undergraduate research student
 - Master's student
 - Ph.D student
 - Post. Doc. researcher

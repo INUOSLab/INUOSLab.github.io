@@ -1,1 +1,35 @@
 theme: jekyll-theme-minimal
+
+locale                   : "ko" # 타깃 국가 설정
+title                    : "INU Operating Systems Laboratory" # 블로그 좌측상단의 제목
+name                     : "INU OSLab"
+description              : "Website for INU Operating Systems Laboratory"
+url                      : "https://inuoslab.github.io" # 블로그 주소
+repository               : "inuoslab/inuoslab.github.io" # 블로그 github 리포지토리
+search                   : true # 사이트 우측 상단 검색 활성화
+search_full_content      : # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
+
+# 사이드바
+author:
+  name             : "INU OSLab"
+  avatar           : "/assets/images/oslab_logo_small.jpg" # 프로필 사진
+  bio              : "INU OSLab is established in 2021"
+  location         : "Songdo, South Korea"
+  #email            : "ypkim@b.c"
+  #uri              : # 웹사이트, 보통 지금 블로그 말고 링크해두고 싶은 사이트를 적는다.
+  # 이 아래 쇼셜 리스트에 해당되는 것에 아이디를 적는다
+  github : "inuoslab" # 주소 전체를 적는 것이 아닌 자신의 정보만 적는다.
+ 
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false # 해당 포스트를 읽은 시간이 표시되는데 기본값은 true이다.
+      comments: # true
+      share: # true # 포스트 공유 기능을 활성화 할 것인지 정한다. 기본값은 true이다.
+      related: true

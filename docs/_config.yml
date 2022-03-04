@@ -10,17 +10,17 @@ logo                     : "/assets/images/inuoslab_small_icon.jpg"
 search                   : true # 사이트 우측 상단 검색 활성화
 search_full_content      : false # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
 #show_downloads           : true
-links:
+
+# 사이드바
+author:
+  name             : "INU OSLab"
+  links:
     - label: "Members"
       icon: "fas fa-fw fa-link"
       url: /members/
     - label: "Research"
       icon: "fas fa-fw fa-link"
       url: /research/
-
-# 사이드바
-#author:
-#  name             : "INU OSLab"
   #avatar           : "/assets/images/inuoslab_small.jpg" # 프로필 사진
 #  bio              : "INU OSLab is established in 2021"
 #  location         : "Incheon, South Korea"

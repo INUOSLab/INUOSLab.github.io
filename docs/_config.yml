@@ -6,26 +6,38 @@ name                     : "INU OSLab"
 description              : "Website for INU Operating Systems Laboratory"
 url                      : "https://inuoslab.github.io" # 블로그 주소
 repository               : "inuoslab/inuoslab.github.io" # 블로그 github 리포지토리
+logo                     : "/assets/images/inuoslab_small.jpg"
 search                   : true # 사이트 우측 상단 검색 활성화
-search_full_content      : # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
+search_full_content      : false # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
 #show_downloads           : true
 
 # 사이드바
 author:
   name             : "INU OSLab"
-  avatar           : "/assets/images/inuoslab_small.jpg" # 프로필 사진
+  #avatar           : "/assets/images/inuoslab_small.jpg" # 프로필 사진
   bio              : "INU OSLab is established in 2021"
   location         : "Incheon, South Korea"
-  memu:
-    - title: "Members"
+  links:
+    - label: "Members"
+      icon: "fas fa-fw fa-link"
       url: /members/
-    - title: "Topics"
-      url: /topics/       
+    - label: "Research"
+      icon: "fas fa-fw fa-link"
+      url: /research/       
 
   #email            : "ypkim@inu.ac.kr"
   #uri              : # 웹사이트, 보통 지금 블로그 말고 링크해두고 싶은 사이트를 적는다.
   # 이 아래 쇼셜 리스트에 해당되는 것에 아이디를 적는다
-  #github : "inuoslab" # 주소 전체를 적는 것이 아닌 자신의 정보만 적는다.
+  #github : "inuoslab" # 주소 전체를 적는 것이 아닌 자신의 정보만 적는다.\
+
+footer:
+  links:
+    - label: "Members"
+      icon: "fas fa-fw fa-link"
+      url: /members/
+    - label: "Research"
+      icon: "fas fa-fw fa-link"
+      url: /research/           
  
 # Defaults
 defaults:
@@ -38,5 +50,17 @@ defaults:
       author_profile: true
       read_time: true # 해당 포스트를 읽은 시간이 표시되는데 기본값은 true이다.
       comments: # true
-      share: # true # 포스트 공유 기능을 활성화 할 것인지 정한다. 기본값은 true이다.
+      share: false # true # 포스트 공유 기능을 활성화 할 것인지 정한다. 기본값은 true이다.
       related: true
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+

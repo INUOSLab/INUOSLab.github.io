@@ -20,6 +20,8 @@ author:
   #uri              : # 웹사이트, 보통 지금 블로그 말고 링크해두고 싶은 사이트를 적는다.
   # 이 아래 쇼셜 리스트에 해당되는 것에 아이디를 적는다
   github : "inuoslab" # 주소 전체를 적는 것이 아닌 자신의 정보만 적는다.
+  members : "members"
+  research : "research"
  
 # Defaults
 defaults:

@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+title: "INU OSLab"
+permalink: /
 layout: default
 author_profile: true
 ---

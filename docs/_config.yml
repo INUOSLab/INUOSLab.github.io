@@ -6,7 +6,7 @@ name                     : "INU OSLab"
 description              : "Website for INU Operating Systems Laboratory"
 url                      : "https://inuoslab.github.io" # 블로그 주소
 #repository               : "inuoslab/inuoslab.github.io" # 블로그 github 리포지토리
-logo                     : "/assets/images/inuoslab_small_icon.jpg"
+logo                     : "/assets/images/inuoslab_small_icon.png"
 search                   : true # 사이트 우측 상단 검색 활성화
 search_full_content      : false # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
 #show_downloads           : true

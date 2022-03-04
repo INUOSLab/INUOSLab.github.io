@@ -5,26 +5,25 @@ title                    : "INU Operating Systems Laboratory" # 블로그 좌측
 name                     : "INU OSLab"
 description              : "Website for INU Operating Systems Laboratory"
 url                      : "https://inuoslab.github.io" # 블로그 주소
-repository               : "inuoslab/inuoslab.github.io" # 블로그 github 리포지토리
+#repository               : "inuoslab/inuoslab.github.io" # 블로그 github 리포지토리
 logo                     : "/assets/images/inuoslab_small.jpg"
 search                   : true # 사이트 우측 상단 검색 활성화
 search_full_content      : false # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
 #show_downloads           : true
-
-# 사이드바
-author:
-  name             : "INU OSLab"
-  #avatar           : "/assets/images/inuoslab_small.jpg" # 프로필 사진
-  bio              : "INU OSLab is established in 2021"
-  location         : "Incheon, South Korea"
-  links:
+links:
     - label: "Members"
       icon: "fas fa-fw fa-link"
       url: /members/
     - label: "Research"
       icon: "fas fa-fw fa-link"
-      url: /research/       
+      url: /research/
 
+# 사이드바
+#author:
+#  name             : "INU OSLab"
+  #avatar           : "/assets/images/inuoslab_small.jpg" # 프로필 사진
+#  bio              : "INU OSLab is established in 2021"
+#  location         : "Incheon, South Korea"
   #email            : "ypkim@inu.ac.kr"
   #uri              : # 웹사이트, 보통 지금 블로그 말고 링크해두고 싶은 사이트를 적는다.
   # 이 아래 쇼셜 리스트에 해당되는 것에 아이디를 적는다

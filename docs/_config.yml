@@ -14,13 +14,13 @@ search_full_content      : false # 제목이 아닌 내용까지도 검색할 �
 # 사이드바
 author:
   name             : "INU OSLab"
-  links:
-    - label: "Members"
-      icon: "fas fa-fw fa-link"
-      url: /members/
-    - label: "Research"
-      icon: "fas fa-fw fa-link"
-      url: /research/
+#  links:
+#    - label: "Members"
+#      icon: "fas fa-fw fa-link"
+#      url: /members/
+#    - label: "Research"
+#      icon: "fas fa-fw fa-link"
+#      url: /research/
   #avatar           : "/assets/images/inuoslab_small.jpg" # 프로필 사진
 #  bio              : "INU OSLab is established in 2021"
 #  location         : "Incheon, South Korea"
@@ -29,14 +29,14 @@ author:
   # 이 아래 쇼셜 리스트에 해당되는 것에 아이디를 적는다
   #github : "inuoslab" # 주소 전체를 적는 것이 아닌 자신의 정보만 적는다.\
 
-footer:
-  links:
-    - label: "Members"
-      icon: "fas fa-fw fa-link"
-      url: /members/
-    - label: "Research"
-      icon: "fas fa-fw fa-link"
-      url: /research/           
+#footer:
+#  links:
+#    - label: "Members"
+#      icon: "fas fa-fw fa-link"
+#      url: /members/
+#    - label: "Research"
+#      icon: "fas fa-fw fa-link"
+#      url: /research/           
  
 # Defaults
 defaults:

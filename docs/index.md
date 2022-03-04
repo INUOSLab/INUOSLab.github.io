@@ -1,4 +1,4 @@
-<img src="assets/oslab_wordcloud.jpg" alt="OSLab" width="400"/>
+<img src="assets/images/oslab_wordcloud.jpg" alt="OSLab" width="400"/>
 
 # Overview
 ## Welcome to INU Operating Systems Laboratory Web pages

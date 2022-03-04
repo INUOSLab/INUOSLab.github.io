@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 
 locale                   : "ko" # 타깃 국가 설정
 title                    : "INU Operating Systems Laboratory" # 블로그 좌측상단의 제목

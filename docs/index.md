@@ -1,3 +1,10 @@
+---
+title: "About"
+permalink: /about/
+layout: default
+author_profile: true
+---
+
 <img src="assets/images/oslab_wordcloud.jpg" alt="OSLab" width="400"/>
 
 # Overview

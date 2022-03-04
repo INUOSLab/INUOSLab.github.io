@@ -8,6 +8,7 @@ url                      : "https://inuoslab.github.io" # 블로그 주소
 repository               : "inuoslab/inuoslab.github.io" # 블로그 github 리포지토리
 search                   : true # 사이트 우측 상단 검색 활성화
 search_full_content      : # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
+#show_downloads           : true
 
 # 사이드바
 author:
@@ -29,7 +30,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false # 해당 포스트를 읽은 시간이 표시되는데 기본값은 true이다.
+      read_time: true # 해당 포스트를 읽은 시간이 표시되는데 기본값은 true이다.
       comments: # true
       share: # true # 포스트 공유 기능을 활성화 할 것인지 정한다. 기본값은 true이다.
       related: true

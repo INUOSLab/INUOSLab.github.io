@@ -36,14 +36,14 @@ author:
   # 이 아래 쇼셜 리스트에 해당되는 것에 아이디를 적는다
   #github : "inuoslab" # 주소 전체를 적는 것이 아닌 자신의 정보만 적는다.\
 
-#footer:
-#  links:
-#    - label: "Members"
-#      icon: "fas fa-fw fa-link"
-#      url: /members/
-#    - label: "Research"
-#      icon: "fas fa-fw fa-link"
-#      url: /research/           
+footer:
+  links:
+    - label: "Members"
+      icon: "fas fa-fw fa-link"
+      url: /members/
+    - label: "Research"
+      icon: "fas fa-fw fa-link"
+      url: /research/           
  
 # Defaults
 defaults:

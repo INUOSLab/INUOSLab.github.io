@@ -1,7 +1,7 @@
 ---
 title: "INU OSLab"
 permalink: /
-layout: pages
+layout: default
 author_profile: true
 ---
 

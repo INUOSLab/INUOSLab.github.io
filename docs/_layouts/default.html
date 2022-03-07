@@ -13,7 +13,7 @@
     {% include head-custom.html %}
     <ul id="navi">
         {% for menuItem in site.header_pages %}
-            <li id="navi"><a href="{{ menuItem }}"></a>{{ menuItem }}</li>
+            <li id="navi"><a href="{{ menuItem.replace(".md", "/") }}">{{ menuItem.replace(".md", "/") }}</a></li>
         {% endfor %}        
     </ul>
   </head>

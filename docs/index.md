@@ -1,5 +1,5 @@
 ---
-title: "INU OSLab"
+title: "Home"
 permalink: /
 layout: default
 author_profile: true

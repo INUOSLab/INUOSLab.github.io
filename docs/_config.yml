@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 #remote_theme: b2a3e8/jekyll-theme-console
 
 locale                   : "ko" # 타깃 국가 설정

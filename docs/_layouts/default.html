@@ -46,10 +46,10 @@
         </ul>-->
         <!-- drop down menu -->
         <div class="dropdown" style="float:left;">
-            <button class=""dropbtn">Pages</button>
+            <button class="dropbtn">Pages</button>
             <div class="dropdown-content" style="left:0;">
             {% for menuItem in site.header_pages %}
-                <a href="{{ menuItem | relative_url }}">{{ menuItem }}</a>
+                <a href="{{ menuItem.url | relative_url }}">{{ menuItem.name }}</a>
             {% endfor %}
             </div>
         </div>

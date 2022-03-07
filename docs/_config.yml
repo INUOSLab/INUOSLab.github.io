@@ -13,9 +13,15 @@ logo                     : "/assets/images/inuoslab_small_icon.jpg"
 #show_downloads           : true
 
 header_pages:
-  - index
-  - members
-  - research
+  - index:
+    name: Home
+    url: index
+  - members:
+    name: Members
+    url: members
+  - research:
+    name: Research Overview
+    url: research
 
 # style: light # light, dark, hacker for theme-console 
 

@@ -1,7 +1,7 @@
 ---
 title: "Research Overview"
 permalink: /research/
-layout: page
+layout: default
 ---
 
 # Research Overview

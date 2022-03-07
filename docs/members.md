@@ -1,7 +1,7 @@
 ---
 title: "Members"
 permalink: /members/
-layout: page
+layout: default
 author_profile: true
 ---
 

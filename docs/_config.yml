@@ -17,7 +17,7 @@ header_pages:
   - members.md
   - research.md
 
-style: light # light, dark, hacker
+# style: light # light, dark, hacker for theme-console 
 
 footer: 'Operating Systems Laboratory, <a href="https://inu.ac.kr/">INU</a>, Songdo, Incheon, KR.'
 

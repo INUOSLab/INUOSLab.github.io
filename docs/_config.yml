@@ -64,3 +64,5 @@ defaults:
       share: false
       related: false
 
+
+theme: jekyll-theme-hacker

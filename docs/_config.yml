@@ -1,5 +1,5 @@
-#theme: jekyll-theme-minimal
-remote_theme: b2a3e8/jekyll-theme-console
+theme: jekyll-theme-hacker
+#remote_theme: b2a3e8/jekyll-theme-console
 
 locale                   : "ko" # 타깃 국가 설정
 title                    : "INU Operating Systems Laboratory" # 블로그 좌측상단의 제목
@@ -65,4 +65,3 @@ defaults:
       related: false
 
 
-theme: jekyll-theme-hacker

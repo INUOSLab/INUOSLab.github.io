@@ -11,9 +11,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-    <ul>
+    <ul id="navi">
         {% for menuItem in site.header_pages %}
-            <li><a href="{{ menuItem }}"></a>{{ menuItem }}</li>
+            <li id="navi"><a href="{{ menuItem }}"></a>{{ menuItem }}</li>
         {% endfor %}        
     </ul>
   </head>

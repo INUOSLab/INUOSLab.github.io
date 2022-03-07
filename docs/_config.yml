@@ -20,7 +20,7 @@ header_pages:
     name: Members
     url: members
   - research:
-    name: Research Overview
+    name: Research
     url: research
 
 # style: light # light, dark, hacker for theme-console 

@@ -18,8 +18,7 @@
 
         <ul id="navi">
             {% for menuItem in site.header_pages %}
-                {%  menuItem.replace(".md", "/") %}
-                <li id="navi"><a href="{{ menuItem }}">{{ menuItem }}</a></li>
+                <li id="navi"><a href="{{ menuItem | append: relative_url }}">{{ menuItem }}</a></li>
             {% endfor %}        
         </ul>
     

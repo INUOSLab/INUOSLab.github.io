@@ -13,9 +13,9 @@ logo                     : "/assets/images/inuoslab_small_icon.jpg"
 #show_downloads           : true
 
 header_pages:
-  - index.md
-  - members.md
-  - research.md
+  home: index
+  members: members
+  reserach: research
 
 # style: light # light, dark, hacker for theme-console 
 

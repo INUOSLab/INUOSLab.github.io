@@ -39,3 +39,5 @@ author_profile: true
 # Contact
 
 - Prof. Youngpil Kim, Ph.D. (ypkim at inu dot ac dot kr)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1010.7836553824678!2d126.63325963865681!3d37.374398841771914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b7647ad865a69%3A0xf2feca7c604088b5!2z7J247LKc6rSR7Jet7IucIOyGoeuPhDHrj5kg7J247LKc64yA7ZWZ6rWQIOygleuztOq4sOyIoOuMgO2VmQ!5e0!3m2!1sko!2skr!4v1646787531341!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

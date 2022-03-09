@@ -22,28 +22,14 @@ header_pages:
   - research:
     name: Research
     url: research
+  - news:
+    name: News
+    url: news
+
 
 # style: light # light, dark, hacker for theme-console 
 
 footer: 'Operating Systems Laboratory, <a href="https://inu.ac.kr/">INU</a>, Songdo, Incheon, KR.'
-
-# 사이드바
-#author:
-#  name             : "INU OSLab"
-#  links:
-#    - label: "Members"
-#      icon: "fas fa-fw fa-link"
-#      url: /members/
-#    - label: "Research"
-#      icon: "fas fa-fw fa-link"
-#      url: /research/
-  #avatar           : "/assets/images/inuoslab_small.jpg" # 프로필 사진
-#  bio              : "INU OSLab is established in 2021"
-#  location         : "Incheon, South Korea"
-  #email            : "ypkim@inu.ac.kr"
-  #uri              : # 웹사이트, 보통 지금 블로그 말고 링크해두고 싶은 사이트를 적는다.
-  # 이 아래 쇼셜 리스트에 해당되는 것에 아이디를 적는다
-  #github : "inuoslab" # 주소 전체를 적는 것이 아닌 자신의 정보만 적는다.\
  
 # Defaults
 defaults:
@@ -69,5 +55,3 @@ defaults:
       comments: false
       share: false
       related: false
-
-

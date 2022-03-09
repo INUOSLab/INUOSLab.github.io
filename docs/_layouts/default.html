@@ -57,16 +57,6 @@
       </header>
       <section>
 
-      {% if site.newsList %}
-        <ul>
-          {% for newsItem in site.newsList %}
-              {% newsItemUrl = newsItem.date + newsItem.title.replace("-","/") + ".html" %}
-              <li><a href="{{ newsItemUrl | relative_url }}">{{ newsItem.title }}</a>, {{ newsItem.date }}, {{ newsItem.tag }}</li>
-          {% endfor %}        
-      </ul>
-      {% endif %}
-      
-
       {{ content }}
 
       </section>

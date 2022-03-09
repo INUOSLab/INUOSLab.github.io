@@ -57,7 +57,7 @@
       </header>
       <section>
 
-      {% if site.newList %}
+      {% if site.newsList %}
         <ul>
           {% for newsItem in site.newsList %}
               {% newsItemUrl = newsItem.date + newsItem.title.replace("-","/") + ".html" %}

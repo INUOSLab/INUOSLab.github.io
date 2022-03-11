@@ -23,8 +23,8 @@ header_pages:
     name: Research
     url: research
   - news:
-    name: News
-    url: news
+    name: Notice
+    url: notice
 
 
 # style: light # light, dark, hacker for theme-console 

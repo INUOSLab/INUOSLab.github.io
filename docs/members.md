@@ -6,4 +6,8 @@ author_profile: true
 ---
 
 # INU OSLab members
-- TBD
+## Undergraduate research student
+- Shin, Geon Woo
+  - Research interest: TBD
+  - Project title: TBD
+  - Joined in Jul. 2022

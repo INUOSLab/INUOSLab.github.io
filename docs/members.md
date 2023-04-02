@@ -24,6 +24,12 @@ author_profile: true
   - Joined in Nov. 2022
   - Notes: She has conducted research and presented slides on the topic of edge cloud and deep learning. Currently, she is exploring data-related topics as an undergraduate research student.
 
+- Go, Yongun
+  - Research interest: AI, Digital twin, Cloud computing
+  - Project title: TBD
+  - Joined in Mar. 2023
+  - Notes: TBD
+
 ### 2022
 - Shin, Geon Woo
   - Research interest: Cloud

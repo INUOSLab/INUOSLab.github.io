@@ -26,8 +26,8 @@ author_profile: true
 
 - Oh, Sumin
   - Research interest: IoT
-  - Joined in Nov. 2022
-  - Notes: She has conducted research and presented slides on the topic of edge cloud and deep learning. Currently, she is exploring fog computing as an undergraduate research student.
+  - Joined in Nov. 2022 and completed in Dec. 2023
+  - Notes: She has conducted research and presented slides on the topic of edge cloud and deep learning. Also, she was studied fog computing and reviewed the related case studies.
 
 - Go, Yongun
   - Research interest: AI, Digital twin, Cloud computing

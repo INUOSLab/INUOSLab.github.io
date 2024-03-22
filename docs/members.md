@@ -7,24 +7,24 @@ author_profile: true
 
 # INU OSLab members
 ## A Leader
-- Prof. Kim, Youngpil ![_](assets/images/user_process.png)
+- ![ypkim](assets/images/user_process.png) Prof. Kim, Youngpil
   - Research interest: Operating systems kernel, Cloud computing IaaS, DevOps, and system-level security.
   - [More info](https://sites.google.com/site/ypkimresearchpage)
 
 ## Graduate student
-- Shin, Seonghwan 
+- ![shshin](assets/images/user_process.png) Shin, Seonghwan 
   - Research interest: Hybrid cloud, Web 3.0, CDN   
   - Joined in Sep. 2023
   - Notes: He is studying research issues for monitoring microservices. He is currently in Bachelor's and Master's Degree Joint Program.
 
 ## Undergraduate research student
 ### 2024
-- Go, Yongun
+- ![yugo](assets/images/user_process.png) Go, Yongun
   - Research interest: AI, Digital twin, Cloud computing
   - Joined in Mar. 2023
   - Notes: He is currently studying Linux kernel-related issues in the ARM processor environment.
 
-- Woo, Kyeomhyeok
+- ![khwoo](assets/images/user_process.png) Woo, Kyeomhyeok
   - Research interest: Virtual Reality, Digital twin
   - Joined in Mar. 2024
   - Notes: He has just joined our group 1st semester. He is currently surveying issues related to VR OS.

@@ -31,7 +31,6 @@ author_profile: true
 
 <details>
   <summary><b>Before 2023</b></summary>
-  <p>
     
 ### 2023
 - Shin, Seonghwan
@@ -59,6 +58,6 @@ author_profile: true
   - Research interest: S/W, Cloud
   - Joined in Nov. 2022 and left in Feb. 2023
   - Notes: She came in as an undergraduate research student and conducted surveys and slide presentations on edge cloud and fog computing.     
-  </p>
+
 </details>
 

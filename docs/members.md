@@ -19,7 +19,7 @@ author_profile: true
 
 ## Undergraduate research student
 ### 2024
-> <img src="http://inuoslab.github.io/assets/images/yugo" alt="yugo" width="100"/> Go, Yongun
+> <img src="http://inuoslab.github.io/assets/images/yugo.jpg" alt="yugo" width="100"/> Go, Yongun
   - Research interest: AI, Digital twin, Cloud computing
   - Joined in Mar. 2023
   - Notes: He is currently studying Linux kernel-related issues in the ARM processor environment.

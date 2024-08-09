@@ -28,7 +28,7 @@ author_profile: true
   <summary><b>Former members</b></summary>
 
 <p><b>2024</b></p>
-<p>- Woo, Kyeomhyeok</p>
+<p>- <img src="http://inuoslab.github.io/assets/images/khwoo.jpg" alt="yugo" width="100"/> Woo, Kyeomhyeok</p>
 <pre>
   - Research interest: Virtual Reality, Digital twin
   - Joined in Mar. 2024 and left in May 2024

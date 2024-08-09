@@ -24,14 +24,17 @@ author_profile: true
   - Joined in Mar. 2023
   - Notes: He is currently studying Linux kernel-related issues in the ARM processor environment.
 
-> <img src="http://inuoslab.github.io/assets/images/khwoo.jpg" alt="khwoo" width="100"/> Woo, Kyeomhyeok
+<details>
+  <summary><b>Former members</b></summary>
+
+<p><b>2024</b></p>
+<p>- Woo, Kyeomhyeok</p>
+<pre>
   - Research interest: Virtual Reality, Digital twin
   - Joined in Mar. 2024 and left in May 2024
-  - Notes: He has conducted a research survey related to VR OS.
+  - Notes: He conducted a research survey related to VR OS.
+</pre>
 
-<details>
-  <summary><b>Before 2023</b></summary>
-    
 <p><b>2023</b></p>
 <p>- Shin, Seonghwan</p>
 <pre>

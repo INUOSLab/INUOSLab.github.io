@@ -20,6 +20,19 @@ layout: default
 - If you are interested in any of the above topics or would like to study, please contact us. (위 주제 가운데 관심이 있거나, 연구해보고 싶은 학생들은 연락 바랍니다.)
 	- ypkim at inu ac kr
 
+# Projects
+## On-going
+- (Participating) 2024.9 - now, "Cloud+X", 학석사 연계 ICT 핵심인재양성사업, IITP, Republic of Korea
+- (Participating) 2023.7 - now, "EQM-Level Satellite Communication System Designs featured by Real-Time SatCom Routing Optimization",ITRC NS-위성 RTDC 기술 연구센터, IITP, Republic of Korea
+- (PI) 2024.7 - now, "Study on GPU Cluster Monitoring", INU 인공지능빅데이터 센터, Republic of Korea
+
+## Done
+- (PI) 2024.05 - 2025.04, 클라우드 기반 정형코드 검증을 위한 S/W 스택연구, INU Research Grant
+- (PI) 2023.05 - 2024.04, 클라우드 데이터 수집 테크스택 분석 연구, INU Research Grant
+- (PI) 2022.05 - 2023.04, 컨테이너기반 마이크로서비스 모니터링 기법 연구, INU Research Grant
+- (PI) 2021.10 - 2023.04, 프로그래밍 활동 추적을 위한 클라우드 시스템 지원 연구, INU Research Grant
+- (PI) 2019.03 - 2023.02, Study on system support for service-level-objectives tailor-made machine learning virtualization, NRF 생애첫연구
+
 # Appendix. FYI (continuously updating)
 
 # Microservices/Microarchitectures

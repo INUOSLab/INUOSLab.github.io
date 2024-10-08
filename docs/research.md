@@ -23,7 +23,7 @@ layout: default
 # Projects
 ## On-going
 - (Participating) 2024.9 - now, "Cloud+X", 학석사 연계 ICT 핵심인재양성사업, IITP, Republic of Korea
-- (Participating) 2023.7 - now, "EQM-Level Satellite Communication System Designs featured by Real-Time SatCom Routing Optimization",ITRC NS-위성 RTDC 기술 연구센터, IITP, Republic of Korea
+- (Participating) 2023.7 - now, "EQM-Level Satellite Communication System Designs featured by Real-Time SatCom Routing Optimization", ITRC NS-위성 RTDC 기술 연구센터, IITP, Republic of Korea
 - (PI) 2024.7 - now, "Study on GPU Cluster Monitoring", INU 인공지능빅데이터 센터, Republic of Korea
 
 ## Done

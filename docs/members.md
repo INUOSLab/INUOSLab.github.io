@@ -24,6 +24,11 @@ author_profile: true
   - Joined in Mar. 2023
   - Notes: He is currently studying Linux kernel-related issues in the ARM processor environment.
 
+> <img src="http://inuoslab.github.io/assets/images/dyshin.jpg" alt="dyshin" width="100"/> Shin, DongYeob
+  - Research interest: Linux Kernel, Arm Architecture
+  - Joined in Jan. 2025
+  - Notes: TBD.
+
 <details>
   <summary><b>Former members</b></summary>
 

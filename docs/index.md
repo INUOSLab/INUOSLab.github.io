@@ -14,7 +14,7 @@ author_profile: true
 - We review, study, tackle various `system research challenges`.
 - We do not pursue the right answer only; instead, we try to get `the best solutions` via valid approaches under the given conditions.
 - **Join** us if you agree with our approach and vision.
-- INU OSLab Overview Voice Ver. ><audio controls><source src="assets/audio/inuoslab_audio_overview_for_student_kor.wav" type="audio/wav">Your browser does not support the audio element.</audio><
+- INU OSLab Overview Voice Korean Ver. <audio controls><source src="assets/audio/inuoslab_audio_overview_for_student_kor.wav" type="audio/wav">Your browser does not support the audio element.</audio><
 
 # Research Area
 

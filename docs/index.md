@@ -43,6 +43,8 @@ author_profile: true
   - Hyunchan Park, **Youngpil Kim**, Seehwan Yoo , "AvaTar: Zero-copy archiving with new kernel-level operations," in IEEE Access, vol. 8, pp. 59315-59325, Mar 2020. https://doi.org/10.1109/ACCESS.2020.2982688
 
   ## Conferences
+  - **신성환**, **고용운**, **신동엽**, **김영필**. (2025-07). 최신 LLM 추론 모델 기반 프로세스 스케줄링 가능성 연구. 2025년도 한국컴퓨터종합학술대회(KCC2025), 2025. 07. 02 ~ 04. 제주.
+  - **신성환**, **고용운**, **신동엽**, **김영필**. (2025-06-20). 저궤도 위성 엣지 컴퓨팅을 위한 ARM64 플랫폼 분석 연구. 2025년도 한국통신학회 하계종합학술발표회, 2025. 06. 18 ~ 20. 제주.
   - **신성환**, **김영필**. (2024-06-26). 저궤도 위성 엣지 컴퓨팅을 위한 COTS 하드웨어 및 마이크로프로세서 활용 사례 연구. 대한전자공학회 학술대회, 제주. [원문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891278)
   - **신성환**, **김영필**. (2023-11-22). 저궤도 위성 기반 엣지 컴퓨팅 플랫폼 기술 연구 동향. 한국통신학회 학술대회논문집, 경북. [원문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667546)
 

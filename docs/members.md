@@ -23,13 +23,20 @@ author_profile: true
   - Joined in Mar. 2023
   - Notes: He is currently studying Linux kernel-related issues in the ARM processor environment.
 
-> <img src="http://inuoslab.github.io/assets/images/dyshin.jpg" alt="dyshin" width="100"/> Shin, DongYeob
-  - Research interest: Linux Kernel, Arm Architecture
-  - Joined in Jan. 2025
+> <img src="http://inuoslab.github.io/assets/images/user_process.png" alt="yjkim" width="100"/> Kim, Yeonjun
+  - Research interest: Cloud computing, Linux
+  - Joined in Sep. 2025
   - Notes: TBD.
 
 <details>
   <summary><b>Former members</b></summary>
+<p><b>2025</b></p>
+<p><img src="http://inuoslab.github.io/assets/images/dyshin.jpg" alt="dyshin" width="100"/> Shin, DongYeob</p>
+  <pre>
+  - Research interest: Linux Kernel, Arm Architecture
+  - Joined in Jan. 2025 and left in Aug. 2025
+  - Notes: He studied ARM64 processor architecture and tried to build embedded and customized Linux kernel.
+  </pre>
 
 <p><b>2024</b></p>
 <p>- <img src="http://inuoslab.github.io/assets/images/khwoo.jpg" alt="yugo" width="100"/> Woo, Kyeomhyeok</p>

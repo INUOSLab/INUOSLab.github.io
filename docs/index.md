@@ -10,6 +10,7 @@ author_profile: true
 # Overview
 ## Welcome to INU Operating Systems Laboratory Web pages
 
+- INU OSLab was established in Oct. 2021 by `Prof. Kim`.
 - `Operating systems` are essential for feasible system construction and resource management based on computing devices such as cloud, IoT, smartphones, automobiles, and intelligent robots.
 - We review, study, tackle various `system research challenges`.
 - We do not pursue the right answer only; instead, we try to get `the best solutions` via valid approaches under the given conditions.

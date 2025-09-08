@@ -23,7 +23,7 @@ author_profile: true
   - Joined in Mar. 2023
   - Notes: He is currently studying Linux kernel-related issues in the ARM processor environment.
 
-> <img src="http://inuoslab.github.io/assets/images/user_process.png" alt="yjkim" width="100"/> Kim, Yeonjun
+> <img src="http://inuoslab.github.io/assets/images/yjkim.jpg" alt="yjkim" width="100"/> Kim, Yeonjun
   - Research interest: Cloud computing, Linux
   - Joined in Sep. 2025
   - Notes: TBD.

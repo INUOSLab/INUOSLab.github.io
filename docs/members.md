@@ -18,7 +18,7 @@ author_profile: true
   - Notes: He is studying research issues for monitoring microservices. He is currently in the Bachelor's and Master's Degree Joint Program.
 
 ## Undergraduate research student
-> <img src="http://inuoslab.github.io/assets/images/yugo.jpg" alt="yugo" width="100"/> Go, Yongun
+> <img src="http://inuoslab.github.io/assets/images/yugo.jpg" alt="yugo" width="100"/> Ko, Yongwoon
   - Research interest: AI, Digital twin, Cloud computing
   - Joined in Mar. 2023
   - Notes: He is currently studying Linux kernel-related issues in the ARM processor environment.

@@ -12,21 +12,24 @@ author_profile: true
   - [More info](https://sites.google.com/site/ypkimresearchpage)
 
 ## Graduate student
-> <img src="http://inuoslab.github.io/assets/images/shshin.jpg" alt="shshin" width="100"/> Shin, Seonghwan 
-  - Research interest: Hybrid cloud, Web 3.0, CDN   
-  - Joined in Sep. 2023
-  - Notes: He is studying research issues for monitoring microservices. He is currently in the Bachelor's and Master's Degree Joint Program.
+### Master's Degree
+> <img src="http://inuoslab.github.io/assets/images/yugo.jpg" alt="yugo" width="100"/> Ko, Yongwoon
+  - Research interest: AI, Digital twin, Cloud computing.
+  - Joined in Mar. 2026.
+  - Notes: He is currently studying the microservice-related issues in LEO satellites.
 
 ## Undergraduate research student
-> <img src="http://inuoslab.github.io/assets/images/yugo.jpg" alt="yugo" width="100"/> Ko, Yongwoon
-  - Research interest: AI, Digital twin, Cloud computing
-  - Joined in Mar. 2023
-  - Notes: He is currently studying Linux kernel-related issues in the ARM processor environment.
-
 > <img src="http://inuoslab.github.io/assets/images/yjkim.jpg" alt="yjkim" width="100"/> Kim, Yeonjun
-  - Research interest: Cloud computing, Linux
-  - Joined in Sep. 2025
-  - Notes: TBD.
+  - Research interest: Cloud computing, Linux.
+  - Joined in Sep. 2025.
+  - Notes: He is currently studying the computing issues in LEO satellites.
+
+## Alumni
+### Master's Degree
+> <img src="http://inuoslab.github.io/assets/images/shshin.jpg" alt="shshin" width="100"/> Shin, Seonghwan 
+  - Research topic: Quantum computing, Microservice monitoring.
+  - Graduation: Feb. 2026. (Joined in Sep. 2023, the Bachelor’s and Master’s Degree Joint Program)
+  - Current position: Korean Air (대한항공)
 
 <details>
   <summary><b>Former members</b></summary>

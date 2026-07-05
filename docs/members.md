@@ -15,20 +15,28 @@ author_profile: true
 ### Master's Degree
 > <img src="http://inuoslab.github.io/assets/images/yugo.jpg" alt="yugo" width="100"/> Ko, Yongwoon
   - Research interest: AI, Digital twin, Cloud computing.
-  - Joined in Mar. 2026.
+  - Joined in Mar. 2026. 
   - Notes: He is currently studying the microservice-related issues in LEO satellites.
 
 ## Undergraduate research student
 > <img src="http://inuoslab.github.io/assets/images/yjkim.jpg" alt="yjkim" width="100"/> Kim, Yeonjun
   - Research interest: Cloud computing, Linux.
-  - Joined in Sep. 2025.
+  - Joined in Sep. 2025. 
   - Notes: He is currently studying the computing issues in LEO satellites.
+> <img src="http://inuoslab.github.io/assets/images/ywlee.jpg" alt="ywlee" width="100"/> Lee, Yeonwoo 
+  - Research interest: Cloud Computing, Distributed Systems.
+  - Joined in Jul. 2026. 
+  - Notes: TBD.
+> <img src="http://inuoslab.github.io/assets/images/nobody.jpeg" alt="khyoo" width="100"/> Yoo, Kihyeon
+  - Research interest: Cloud Computing, Docker, Kubernetes.
+  - Joined in Jul. 2026. 
+  - Notes: TBD.
 
 ## Alumni
 ### Master's Degree
 > <img src="http://inuoslab.github.io/assets/images/shshin.jpg" alt="shshin" width="100"/> Shin, Seonghwan 
   - Research topic: Quantum computing, Microservice monitoring.
-  - Graduation: Feb. 2026. (Joined in Sep. 2023, the Bachelor’s and Master’s Degree Joint Program)
+  - Graduation: Feb. 2026. (Joined in Sep. 2023, the Bachelor’s and Master’s Degree Joint Program) 
   - Current position: Korean Air (대한항공)
 
 <details>

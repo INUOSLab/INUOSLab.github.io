@@ -29,7 +29,7 @@ author_profile: true
   - Joined in Jul. 2026. 
   - Notes: TBD.
     
-> <img src="http://inuoslab.github.io/assets/images/nobody.jpeg" alt="khyoo" width="100"/> Yoo, Kihyeon
+> <img src="http://inuoslab.github.io/assets/images/khyoo.jpg" alt="khyoo" width="100"/> Yoo, Kihyeon
   - Research interest: Cloud Computing, Docker, Kubernetes.
   - Joined in Jul. 2026. 
   - Notes: TBD.

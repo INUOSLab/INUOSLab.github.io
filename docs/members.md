@@ -23,10 +23,12 @@ author_profile: true
   - Research interest: Cloud computing, Linux.
   - Joined in Sep. 2025. 
   - Notes: He is currently studying the computing issues in LEO satellites.
+
 > <img src="http://inuoslab.github.io/assets/images/ywlee.jpg" alt="ywlee" width="100"/> Lee, Yeonwoo 
   - Research interest: Cloud Computing, Distributed Systems.
   - Joined in Jul. 2026. 
   - Notes: TBD.
+    
 > <img src="http://inuoslab.github.io/assets/images/nobody.jpeg" alt="khyoo" width="100"/> Yoo, Kihyeon
   - Research interest: Cloud Computing, Docker, Kubernetes.
   - Joined in Jul. 2026. 

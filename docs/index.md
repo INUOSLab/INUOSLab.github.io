@@ -35,13 +35,15 @@ author_profile: true
 - [Full List](https://scholar.google.co.kr/citations?hl=ko&user=mLzIIj0AAAAJ&view_op=list_works&sortby=pubdate)
 
   ## Journals
+  - **Seonghwan Shin**, **Youngpil Kim** "QROOT: Quantum-Assisted Root Cause Analysis for Enhanced Observability in Microservice Architectures," in IEEE Access, Aug. 2026 (Early access). [doi](https://doi.org/10.1109/ACCESS.2026.3723579)
+  - Yeonho Yoo, Junseok Lee, Seungwoo Jung, Yunkyung Kang, Dosun Lim, **Youngpil Kim**, Gyeongsik Yang, and Chuck Yoo, "Unified Digital Biomarker Platform for Wearable Devices Assuring Integrity, Heterogeneity, and Scalability," Scientific Reports, Jul. 2026 (Early access). [doi](http://doi.org/10.1038/s41598-026-63514-y)
   - **신성환**, 박현찬, **김영필** "컨테이너 기반 마이크로서비스 모니터링 주요 사례 연구" 전자공학회논문지, vol. 61, no. 9 pp.37-45, Sep 2024.
   - 남윤수, **김영필**, 박현찬 "오픈스택 기반 SW교육용 사설 클라우드 시스템의 설계 및 구축" 전자공학회논문지 vol. 61, no. 9, pp.46-55, Sep 2024.
-  - Seehwan Yoo, **Youngpil Kim**, Hyunchan Park, Jaehyun Hwang, Kitak Kim, "enCloud: Aspect-oriented trusted service migration on SGX-enabled cloud VM",  in Wiley Software: Practice and Experience,  (Early access), Jun. 2024, https://doi.org/10.1002/spe.3357
-  - 이경운, 박현찬, **김영필**, "클라우드 환경에서 단일 자원 스케줄링 연구," 한국차세대컴퓨팅학회 논문지, vol.19, no.2, pp.67-80, Apr 2023. http://doi.org/10.23019/kingpc.19.2.202304.006 
-  - **김영필**, 유혁, 유시환, 이경운, "ARM 캐시 일관성 인터페이스를 이용한 안드로이드OS 의 스크린 잠금 기능 부채널 공격," Journal of The Korea Institute of Information Security and Cryptology, vol. 32, no. 2, pp. 227-242, Apr 2022. https://doi.org/10.13089/JKIISC.2022.32.2.227
-  - Hyunchan Park and **Youngpil Kim**, "CLIK: Cloud‐based Linux kernel practice environment and judgment system", in Wiley Computer Applications in Engineering Education, Vol. 28, Issue 5, pp. 1137-1153, Sep 2020. https://doi.org/10.1002/cae.22289  
-  - Hyunchan Park, **Youngpil Kim**, Seehwan Yoo , "AvaTar: Zero-copy archiving with new kernel-level operations," in IEEE Access, vol. 8, pp. 59315-59325, Mar 2020. https://doi.org/10.1109/ACCESS.2020.2982688
+  - Seehwan Yoo, **Youngpil Kim**, Hyunchan Park, Jaehyun Hwang, Kitak Kim, "enCloud: Aspect-oriented trusted service migration on SGX-enabled cloud VM", in Wiley Software: Practice and Experience,  Vol 54, No. 12, Dec. 2024, [doi](https://doi.org/10.1002/spe.3357)
+  - 이경운, 박현찬, **김영필**, "클라우드 환경에서 단일 자원 스케줄링 연구," 한국차세대컴퓨팅학회 논문지, vol.19, no.2, pp.67-80, Apr 2023. [doi](http://doi.org/10.23019/kingpc.19.2.202304.006)
+  - **김영필**, 유혁, 유시환, 이경운, "ARM 캐시 일관성 인터페이스를 이용한 안드로이드OS 의 스크린 잠금 기능 부채널 공격," Journal of The Korea Institute of Information Security and Cryptology, vol. 32, no. 2, pp. 227-242, Apr 2022. [doi](https://doi.org/10.13089/JKIISC.2022.32.2.227)
+  - Hyunchan Park and **Youngpil Kim**, "CLIK: Cloud‐based Linux kernel practice environment and judgment system," in Wiley Computer Applications in Engineering Education, vol. 28, issue 5, pp. 1137-1153, Sep 2020. [doi](https://doi.org/10.1002/cae.22289)
+  - Hyunchan Park, **Youngpil Kim**, Seehwan Yoo , "AvaTar: Zero-copy archiving with new kernel-level operations," in IEEE Access, vol. 8, pp. 59315-59325, Mar 2020. [doi](https://doi.org/10.1109/ACCESS.2020.2982688)
 
   ## Conferences
   - **Yongwoon Ko**, **Yeonjun Kim**, **Youngpil Kim**, (2026-07-07). "A Qualitative Analysis of Orchestration Frameworks for LEO Computing Nodes, " The International Council on Electrical Engineering Conference 2026, 2026. 07.05-09 Seoul. 

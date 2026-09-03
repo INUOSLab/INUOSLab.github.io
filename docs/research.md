@@ -5,49 +5,49 @@ layout: default
 ---
 
 # Research Overview
-- An operating system is an essential system s/w for organizing system components and managing both policies and mechanisms for various computing devices, from traditional PCs and servers to cloud data center h/w platforms, IoT devices, smartphones, automobiles, intelligent robots, and so on. 
-- We focus on studying the entire system s/w stack from a low-level device control (firmware or device driver-level) and resource scheduling to pursue various goals (OS subsystems) and abstraction of intelligent and high-level system management functions (API-level).
-- 운영체제는 기존의 PC와 서버에서 클라우드 데이터센터 H/W 플랫폼, IoT 기기, 스마트폰, 자동차, 지능형 로봇 등 다양한 컴퓨팅 기기에 대한 시스템 구성 요소를 구성하고 정책과 메커니즘을 관리하는 필수적인 시스템 소프트웨어입니다.
-- 본 연구실은 전체 시스템 s/w 스택을 연구하며, 저수준의 장치 제어부터, 다양한 목적으로 수행되는 자원 스케줄링, 고수준의 시스템 관리 기능을 지능적으로 추상화하는 것에 대한 연구에 초점을 둡니다.
+- An operating system is the essential system software that organizes system components and manages both policies and mechanisms for computing devices of every scale — from PCs and servers to cloud data centers, GPU clusters, IoT devices, smartphones, and satellites.
+- We study the entire system software stack, from low-level device control and resource scheduling to high-level, intelligent system management abstractions. Our current focus is on making heterogeneous computing resources — especially GPUs — efficient, observable, and easy to operate in cloud environments.
+- 운영체제는 PC와 서버부터 클라우드 데이터센터, GPU 클러스터, IoT 기기, 스마트폰, 인공위성에 이르기까지 모든 규모의 컴퓨팅 기기에서 시스템 구성 요소를 조직하고 정책과 메커니즘을 관리하는 필수 시스템 소프트웨어입니다.
+- 본 연구실은 저수준 장치 제어와 자원 스케줄링부터 고수준의 지능형 시스템 관리 추상화까지 시스템 소프트웨어 스택 전반을 연구하며, 현재는 클라우드 환경에서 이기종 컴퓨팅 자원(특히 GPU)을 효율적이고 관측 가능하며 운영하기 쉽게 만드는 데 초점을 두고 있습니다.
 
-# Research Interests & Topics (2021-now.)
-- Lightweight virtualization resource management for esatablishing efficient microservices (효율적인 마이크로서비스 구축을 위한 경량 가상화 기반 자원 관리)
-- Analyzing workloads in cloud XaaS and OS kernel-level resource management (클라우드 XaaS 워크로드 분석 및 커널 레벨 자원 관리)
-- Workload characterization and system support for machine-learning based GPU workload 머신러닝을 위한 GPU 워크로드 특성 분석 및 시스템 지원
-- Cloud service level objective system resource managment (클라우드 서비스 수준 목표 맞춤 시스템 자원 관리)
-- Optimizing distributed platform S/W running on low-power mini-cluster (저가/소형 기반의 미니클러스터를 위한 분산 플랫폼 SW 최적화)
-- Other topics related to Cloud IaaS, Microservice, System S/W, OS kernel, etc.
-- If you are interested in any of the above topics or would like to study, please contact us. (위 주제 가운데 관심이 있거나, 연구해보고 싶은 학생들은 연락 바랍니다.)
+# Research Threads (2025–now)
+
+## 1. GPU cluster operation & resource management (GPU 클러스터 운영과 자원 관리)
+- Monitoring and log pipelines for multi-tenant GPU clusters; scheduling and sharing of GPU resources for AI workloads.
+- 멀티테넌트 GPU 클러스터의 모니터링·로그 파이프라인, AI 워크로드를 위한 GPU 자원 스케줄링과 공유를 연구합니다. 교내 GPU 클러스터를 직접 구축·운영하며 실측 기반으로 연구합니다.
+
+## 2. Cloud service orchestration for heterogeneous environments (이기종 환경을 위한 클라우드 서비스 오케스트레이션)
+- Customized orchestration of containerized services across heterogeneous computing resources (CPU/GPU, cloud/edge).
+- CPU/GPU, 클라우드/엣지가 섞인 이기종 환경에서 컨테이너 기반 서비스를 맞춤형으로 오케스트레이션하는 기법을 연구합니다.
+
+## 3. Microservice observability & root cause analysis (마이크로서비스 관측성과 근본원인 분석)
+- Container-based microservice monitoring, and root cause analysis for enhanced observability — including quantum-assisted approaches (QROOT).
+- 컨테이너 기반 마이크로서비스 모니터링과, 관측성 향상을 위한 근본원인 분석(양자 보조 접근 포함, QROOT)을 연구합니다.
+
+## 4. Edge-cloud computing on LEO satellites (저궤도 위성 엣지 클라우드)
+- Orchestration frameworks for LEO computing nodes, satellite–ground simulation, and COTS/ARM64 platforms for on-orbit edge computing.
+- 저궤도(LEO) 위성 컴퓨팅 노드를 위한 오케스트레이션 프레임워크, 위성-지상 시뮬레이션, 상용(COTS)/ARM64 플랫폼 기반 궤도상 엣지 컴퓨팅을 연구합니다.
+
+## 5. Foundations (기반 주제)
+- Lightweight virtualization for efficient microservices, OS kernel-level resource management, cloud reliability, and systems security.
+- 효율적인 마이크로서비스를 위한 경량 가상화, 커널 수준 자원 관리, 클라우드 신뢰성, 시스템 보안 등 기반 주제도 계속 다룹니다.
+
+- If you are interested in any of the above topics or would like to study with us, please contact us. (위 주제 가운데 관심이 있거나 연구해보고 싶은 학생은 연락 바랍니다. → [Notice](/notice/) 페이지의 모집 안내 참고)
 	- ypkim at inu ac kr
 
 # Projects
 ## On-going
+- (PI) 2026.5 - now, "Customized Cloud Service Orchestration for Heterogeneous Environments" (이종 환경 지원을 위한 맞춤형 클라우드 서비스 오케스트레이션 기법 연구), INU Research Grant, Republic of Korea
 - (Participating) 2024.9 - now, "Cloud+X", 학석사 연계 ICT 핵심인재양성사업, IITP, Republic of Korea
-- (Participating) 2023.7 - now, "EQM-Level Satellite Communication System Designs featured by Real-Time SatCom Routing Optimization", ITRC NS-위성 RTDC 기술 연구센터, IITP, Republic of Korea
 - (PI) 2024.7 - now, "Study on GPU Cluster Monitoring", INU 인공지능빅데이터 센터, Republic of Korea
+- (Participating) 2023.7 - now, "EQM-Level Satellite Communication System Designs featured by Real-Time SatCom Routing Optimization", ITRC NS-위성 RTDC 기술 연구센터, IITP, Republic of Korea
 
+<!--
 ## Done
-- (PI) 2024.05 - 2025.04, 클라우드 기반 정형코드 검증을 위한 S/W 스택연구, INU Research Grant
-- (PI) 2023.05 - 2024.04, 클라우드 데이터 수집 테크스택 분석 연구, INU Research Grant
-- (PI) 2022.05 - 2023.04, 컨테이너기반 마이크로서비스 모니터링 기법 연구, INU Research Grant
-- (PI) 2021.10 - 2023.04, 프로그래밍 활동 추적을 위한 클라우드 시스템 지원 연구, INU Research Grant
+- (PI) 2025.05 - 2026.04, 사설 클라우드의 효율적인 GPU 로그 모니터링을 위한 시스템 지원 기법 연구, INU Research Grant
+- (PI) 2024.05 - 2025.04, 클라우드 기반 정형 코드 검증을 위한 S/W 스택 연구, INU Research Grant
+- (PI) 2023.05 - 2024.04, 클라우드 서비스의 효율적인 데이터 수집을 위한 테크스택 분석 연구, INU Research Grant
+- (PI) 2022.05 - 2023.04, 컨테이너 기반 클라우드를 위한 마이크로서비스 모니터링 기법 연구, INU Research Grant
+- (PI) 2021.10 - 2022.04, 프로그래밍 활동 추적을 위한 클라우드 기반 시스템 지원 연구, INU Research Grant
 - (PI) 2019.03 - 2023.02, Study on system support for service-level-objectives tailor-made machine learning virtualization, NRF 생애첫연구
-
-# Appendix. FYI (continuously updating)
-
-# Microservices/Microarchitectures
-
-## Google's definition:
-- From https://cloud.google.com/learn/what-is-microservices-architecture?hl=ko   (2022.11)
-- A microservices architecture is a type of application architecture where the application is developed as a collection of services. It provides the framework to develop, deploy, and maintain microservices architecture diagrams and services independently.
-- 마이크로서비스 아키텍처는 애플리케이션이 서비스 모음으로 개발되는 애플리케이션 아키텍처의 한 유형입니다. 또한 마이크로서비스 아키텍처 다이어그램과 서비스를 독립적으로 개발, 배포, 유지관리할 수 있는 프레임워크를 제공합니다.
-
-## Amazon's definition 
-- From https://aws.amazon.com/ko/microservices/ (2022.11)
-- With a microservices architecture, an application is built as independent components that run each application process as a service. These services communicate via a well-defined interface using lightweight APIs. Services are built for business capabilities and each service performs a single function. Because they are independently run, each service can be updated, deployed, and scaled to meet demand for specific functions of an application.
-- 마이크로서비스 아키텍처의 경우, 애플리케이션이 독립적인 구성 요소로 구축되어 각 애플리케이션 프로세스가 서비스로 실행됩니다. 이러한 서비스는 경량 API를 사용하여 잘 정의된 인터페이스를 통해 통신합니다. 서비스는 비즈니스 기능을 위해 구축되며 서비스마다 한 가지 기능을 수행합니다. 서비스가 독립적으로 실행되기 때문에 애플리케이션의 특정 기능에 대한 수요를 충족하도록 각각의 서비스를 업데이트, 배포 및 확장할 수 있습니다.
-
-## IBM's definition 
-- From https://www.ibm.com/kr-ko/cloud/learn/microservices (2022.11)
-- Microservices (or microservices architecture) are a cloud native architectural approach in which a single application is composed of many loosely coupled and independently deployable smaller components, or services. 
-- 마이크로서비스(또는 마이크로 서비스 아키텍처)는 단일 애플리케이션이 다수의 느슨하게 결합되고 독립적으로 배치 가능한 더 작은 컴포넌트 또는 서비스로 구성되는 클라우드 네이티브 아키텍처 접근 방식입니다.
+-->

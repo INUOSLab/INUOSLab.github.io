@@ -24,11 +24,6 @@ author_profile: true
   - Joined in Sep. 2025. 
   - Notes: He is currently studying the computing issues in LEO satellites.
 
-> <img src="http://inuoslab.github.io/assets/images/ywlee.jpg" alt="ywlee" width="100"/> Lee, Yeonwoo 
-  - Research interest: Cloud Computing, Distributed Systems.
-  - Joined in Jul. 2026. 
-  - Notes: TBD.
-    
 > <img src="http://inuoslab.github.io/assets/images/khyoo.jpg" alt="khyoo" width="100"/> Yoo, Kihyeon
   - Research interest: Cloud Computing, Docker, Kubernetes.
   - Joined in Jul. 2026. 
@@ -43,8 +38,16 @@ author_profile: true
 
 <details>
   <summary><b>Former members</b></summary>
+<p><b>2026</b></p>
+<p>- <img src="http://inuoslab.github.io/assets/images/ywlee.jpg" alt="ywlee" width="100"/> Lee, Yeonwoo</p>
+  <pre> 
+  - Research interest: Cloud Computing, Distributed Systems.
+  - Joined in Jul. 2026 and left in Sep. 2026 
+  - Notes: She studied Docker-based MSA and Jaeger-related hands-on work.
+  </pre>
+
 <p><b>2025</b></p>
-<p><img src="http://inuoslab.github.io/assets/images/dyshin.jpg" alt="dyshin" width="100"/> Shin, DongYeob</p>
+<p>- <img src="http://inuoslab.github.io/assets/images/dyshin.jpg" alt="dyshin" width="100"/> Shin, DongYeob</p>
   <pre>
   - Research interest: Linux Kernel, Arm Architecture
   - Joined in Jan. 2025 and left in Aug. 2025

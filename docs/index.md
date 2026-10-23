@@ -29,7 +29,6 @@ author_profile: true
 - Undergraduate research student
 - Master's student
 - Ph.D student
-- Post. Doc. researcher
 
 # Selected Publication 
 - [Full List](https://scholar.google.co.kr/citations?hl=ko&user=mLzIIj0AAAAJ&view_op=list_works&sortby=pubdate)

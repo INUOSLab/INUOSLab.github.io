@@ -19,15 +19,10 @@ author_profile: true
   - Notes: He is currently studying the microservice-related issues in LEO satellites.
 
 ## Undergraduate research student
-> <img src="http://inuoslab.github.io/assets/images/yjkim.jpg" alt="yjkim" width="100"/> Kim, Yeonjun
-  - Research interest: Cloud computing, Linux.
-  - Joined in Sep. 2025. 
-  - Notes: He is currently studying the computing issues in LEO satellites.
-
 > <img src="http://inuoslab.github.io/assets/images/khyoo.jpg" alt="khyoo" width="100"/> Yoo, Kihyeon
   - Research interest: Cloud Computing, Docker, Kubernetes.
   - Joined in Jul. 2026. 
-  - Notes: TBD.
+  - Notes: He is studying issues related to provisioning computing resources in container-based clusters.
 
 ## Alumni
 ### Master's Degree
@@ -39,6 +34,12 @@ author_profile: true
 <details>
   <summary><b>Former members</b></summary>
 <p><b>2026</b></p>
+<p>- <img src="http://inuoslab.github.io/assets/images/yjkim.jpg" alt="yjkim" width="100"/> Kim, Yeonjun
+  <pre> 
+  - Research interest: Cloud computing, Linux.
+  - Joined in Sep. 2025 and left in Oct. 2026. 
+  - Notes: He studied computing issues in LEO satellites and simulated GPU provisioning.
+  </pre> 
 <p>- <img src="http://inuoslab.github.io/assets/images/ywlee.jpg" alt="ywlee" width="100"/> Lee, Yeonwoo</p>
   <pre> 
   - Research interest: Cloud Computing, Distributed Systems.

@@ -23,6 +23,10 @@ author_profile: true
   - Research interest: Cloud Computing, Docker, Kubernetes.
   - Joined in Jul. 2026. 
   - Notes: He is studying issues related to provisioning computing resources in container-based clusters.
+> <img src="http://inuoslab.github.io/assets/images/syjo.png" alt="syjo" width="100"/> Jo, Seoyoon
+  - Research interest: Cloud Computing, Microservice Monitoring, Root Cause Analysis.
+  - Joined in Nov. 2026. 
+  - Notes: TBD.
 
 ## Alumni
 ### Master's Degree

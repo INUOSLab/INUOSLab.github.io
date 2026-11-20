@@ -29,6 +29,11 @@ author_profile: true
   - Joined in Nov. 2026. 
   - Notes: TBD.
 
+> <img src="http://inuoslab.github.io/assets/images/hthong.png" alt="hthong" width="100"/> Hong, Hyeontaek
+  - Research interest: Resource Management,Cloud computing.
+  - Joined in Dec. 2026. 
+  - Notes: TBD.
+
 ## Alumni
 ### Master's Degree
 > <img src="http://inuoslab.github.io/assets/images/shshin.jpg" alt="shshin" width="100"/> Shin, Seonghwan 

@@ -30,7 +30,7 @@ author_profile: true
   - Notes: TBD.
 
 > <img src="http://inuoslab.github.io/assets/images/hthong.png" alt="hthong" width="100"/> Hong, Hyeontaek
-  - Research interest: Resource Management,Cloud computing.
+  - Research interest: Resource Management, Cloud computing.
   - Joined in Dec. 2026. 
   - Notes: TBD.
 
